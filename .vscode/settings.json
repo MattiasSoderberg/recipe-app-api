@@ -1,3 +1,9 @@
 {
-  "python.analysis.typeCheckingMode": "basic"
+  "editor.codeActionsOnSave": {
+    "source.fixAll": false,
+    "source.organizeImports": false
+  },
+  "python.analysis.typeCheckingMode": "basic",
+  "editor.insertSpaces": true,
+  "editor.tabSize": 4
 }
